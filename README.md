@@ -1,0 +1,2 @@
+# LimitSlideDirectionViewPager
+可控制滑动方向的viewpager

@@ -1,2 +1,6 @@
-# LimitSlideDirectionViewPager
-可控制滑动方向的viewpager
+
+一个可以控制滑动方向的viewpager
+
+通过重写onInterceptTouchEvent 和 onTouchEvent 来控制viewpager的滑动方向,具体可以看demo
+
+使用的时候只需要调用setAllowedSwipeDirection方法即可~
